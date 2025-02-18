@@ -1,6 +1,6 @@
 import 'package:blog_post_using_clean_architecture/core/common/cubits/app_user/app_user_cubit.dart';
 import 'package:blog_post_using_clean_architecture/core/network/connection_checker.dart';
-import 'package:blog_post_using_clean_architecture/core/secrets/app_secret.dart';
+
 import 'package:blog_post_using_clean_architecture/features/auth/data/data_sources/auth_remote_data_source.dart';
 import 'package:blog_post_using_clean_architecture/features/auth/data/repositories/auth_repository_impl.dart';
 import 'package:blog_post_using_clean_architecture/features/auth/domain/repository/auth_repository.dart';
